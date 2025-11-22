@@ -1,7 +1,9 @@
 {
   "domain": "ct_ble_devices",
   "name": "CT BLE Devices",
-  "codeowners": ["@StudyDay6"],
+  "codeowners": [
+    "@StudyDay6"
+  ],
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/StudyDay6/ct_ble_devices",
@@ -13,6 +15,5 @@
     "aiofiles>=0.8.0",
     "packaging>=21.0"
   ],
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
-
